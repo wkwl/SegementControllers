@@ -243,6 +243,7 @@
 				TargetAttributes = {
 					04056AB61F209A8D00EB6C8C = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = VSMS8BL7W8;
 						ProvisioningStyle = Automatic;
 					};
 					04056ACF1F209A8E00EB6C8C = {
@@ -464,6 +465,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VSMS8BL7W8;
 				INFOPLIST_FILE = SegementController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.guyuanchun.SegementController;
@@ -475,6 +477,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = VSMS8BL7W8;
 				INFOPLIST_FILE = SegementController/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.guyuanchun.SegementController;
@@ -547,6 +550,7 @@
 				04056AE61F209A8E00EB6C8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04056AE71F209A8E00EB6C8C /* Build configuration list for PBXNativeTarget "SegementControllerTests" */ = {
 			isa = XCConfigurationList;
@@ -555,6 +559,7 @@
 				04056AE91F209A8E00EB6C8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		04056AEA1F209A8E00EB6C8C /* Build configuration list for PBXNativeTarget "SegementControllerUITests" */ = {
 			isa = XCConfigurationList;
@@ -563,6 +568,7 @@
 				04056AEC1F209A8E00EB6C8C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

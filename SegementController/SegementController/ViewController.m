@@ -45,7 +45,7 @@
     [self.view addSubview:main];
     main.frame = CGRectMake(0, 64,self.view.frame.size.width, self.view.frame.size.height-64);
     //设置菜单view 的高度
-    main.btnViewHeight = 30;
+    main.btnViewHeight = 40;
     //设置按钮下划线高度
     main.btnLineHeight = 2;
     //设置按钮字体大小
