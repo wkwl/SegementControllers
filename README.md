@@ -31,5 +31,5 @@
     NSArray *array  = @[@"第一页",@"第二页",@"第三页"];
     main.titleArray = array;
 }
-按照createVc 这个方法里面的进行设置即可。
+按照createVc 这个方法里面的进行设置即可。。
 
