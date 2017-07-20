@@ -1,5 +1,6 @@
 一个简单的分段控制器，使用时只需将SegmentView文件夹拖入项目中，在需要使用的VC中导入#import "MainView.h"。
 具体使用demo如下：
+
 - (void)viewDidLoad {
     self.title = @"不知道1";
     [super viewDidLoad];
@@ -7,6 +8,7 @@
     self.view.backgroundColor = [UIColor clearColor];
     [self createVc];
 }
+
 
 
 - (void)createVc {
@@ -31,5 +33,7 @@
     NSArray *array  = @[@"第一页",@"第二页",@"第三页"];
     main.titleArray = array;
 }
+
+
 按照createVc 这个方法里面的进行设置即可。。
 
