@@ -3,6 +3,7 @@
 
 - (void)viewDidLoad {
     self.title = @"不知道1";
+    
     [super viewDidLoad];
     //    self.automaticallyAdjustsScrollViewInsets = NO;
     self.view.backgroundColor = [UIColor clearColor];
